@@ -16,6 +16,7 @@
    - `SUDO_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
  
 ## Deployments
+- [x] YurikoXSpam 
 - [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
 - [x] Deploy upto 40 UserBots in One time 🔥
 - [x] Dm Spam / Raid
